@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning SpringBoot Framework
 - 📫 How to reach me arg2002suku@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Attack helicopter
 - ⚡ Fun fact: If you are unattractive and have 1 million dollars... people will find you attractive
 
 <!---
